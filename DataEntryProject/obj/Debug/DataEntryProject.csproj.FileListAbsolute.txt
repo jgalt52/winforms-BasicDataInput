@@ -1,0 +1,10 @@
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.pdb
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.frmDataEntry.resources
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.exe
+C:\Users\Machine\Desktop\c#\simple_database\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.pdb
